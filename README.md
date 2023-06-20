@@ -18,7 +18,7 @@
   * Save and export the model to an HDF5 file using the `save()` function, naming the file `"AlphabetSoup.h5"`.
 
 * Optimize the neural network model.
-  * Define at least two new deep neural network models with modifications aimed at improving accuracy.
+  * Define two alternative deep neural network models with modifications aimed at improving accuracy.
   * Compare the accuracy scores achieved by each model and analyze the results.
   * Save each optimized model as an HDF5 file.
  
